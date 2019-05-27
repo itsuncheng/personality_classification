@@ -1,8 +1,5 @@
 # Myers-Briggs Personality Classification and Personality-Specific Language Generation Using Pretrained Language Model
 
-# CHENG, I-TSUN
-# KEH, SEDRICK SCOTT
-
 Make sure you have pytorch installed, then do
 ```
 pip install pytorch-pretrained-bert
