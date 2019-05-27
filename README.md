@@ -1,4 +1,4 @@
-# Myers-Briggs Personality Classification and Personality-Specific Language Generation Using Pretrained Language Model
+# Myers-Briggs Personality Classification and Personality-Specific Language Generation Using Pretrained Language Models
 
 Make sure you have pytorch installed, then do
 ```
